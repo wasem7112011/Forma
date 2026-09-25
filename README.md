@@ -1,36 +1,130 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Forma
 
-## Getting Started
+A modern and responsive fashion e-commerce interface built with Next.js, React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React.
 
-First, run the development server:
+Forma focuses on a clean, modern shopping experience with responsive layouts, polished UI interactions, and a fashion-oriented visual design.
+
+## ✨ Features
+
+* 🛍️ Modern fashion store interface
+* 📱 Fully responsive design
+* 🎨 Clean and modern UI
+* ✨ Smooth animations and transitions
+* 🧩 Reusable React components
+* 🎯 Responsive product-focused layouts
+* ⚡ Built with modern Next.js architecture
+* 🖥️ Optimized for desktop and mobile screens
+
+## 🛠️ Tech Stack
+
+* **Next.js 16** — React framework
+* **React 19** — UI development
+* **TypeScript** — Type-safe development
+* **Tailwind CSS 4** — Styling and responsive layouts
+* **Framer Motion** — Animations and transitions
+* **Lucide React** — Interface icons
+
+## 🎨 Design
+
+Forma was designed around a minimal fashion-focused aesthetic, with emphasis on:
+
+* Clean layouts
+* Strong typography
+* Product presentation
+* Responsive spacing
+* Smooth interactions
+* Consistent visual components
+
+## 📂 Project Structure
+
+```text
+Forma/
+├── public/
+├── src/
+│   └── ...
+├── package.json
+├── next.config.ts
+├── postcss.config.mjs
+├── tsconfig.json
+└── README.md
+```
+
+The application is structured using Next.js and React components, with styling handled through Tailwind CSS.
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+* Node.js 18+
+* npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/wasem7112011/Forma.git
+```
+
+Navigate to the project:
+
+```bash
+cd Forma
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+### Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open the application at:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏗️ Build for Production
 
-## Learn More
+Create a production build:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Start the production server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm start
+```
 
-## Deploy on Vercel
+## 📱 Responsive Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Forma is designed to provide a consistent experience across:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Desktop
+* Tablet
+* Mobile
+
+Layouts and spacing adapt to different screen sizes using responsive Tailwind CSS utilities.
+
+## 🎬 Animations
+
+Framer Motion is used to add smooth UI animations and transitions while keeping interactions subtle and focused on the overall user experience.
+
+## 📌 Project Purpose
+
+Forma was built as a frontend project to practice building a polished, responsive e-commerce interface with modern React and Next.js technologies.
+
+## 👨‍💻 Author
+
+**Wasem Hany**
+
+GitHub:
+https://github.com/wasem7112011
