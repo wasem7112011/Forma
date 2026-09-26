@@ -122,6 +122,10 @@ Framer Motion is used to add smooth UI animations and transitions while keeping 
 
 Forma was built as a frontend project to practice building a polished, responsive e-commerce interface with modern React and Next.js technologies.
 
+## 🌐 Live Demo
+
+[View the live project](https://forma-jade-xi.vercel.app/)
+
 ## 👨‍💻 Author
 
 **Wasem Hany**
